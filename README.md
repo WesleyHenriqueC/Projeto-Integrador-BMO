@@ -1,3 +1,3 @@
 # Projeto-Integrador-BMO
-wesley
-pedro
+- wesley
+- pedro
