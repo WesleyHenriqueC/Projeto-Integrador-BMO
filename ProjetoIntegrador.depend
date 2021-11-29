@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635776721 source:c:\users\wesley\desktop\faculdade\programaçao\2021\projetointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
